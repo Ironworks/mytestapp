@@ -26,6 +26,10 @@ class MyTestAppTests: XCTestCase {
     func test_2() {
         XCTAssert(true)
     }
+    
+    func test_3() {
+        XCTAssert(true)
+    }
 
     func testPerformanceExample() throws {
         // This is an example of a performance test case.
