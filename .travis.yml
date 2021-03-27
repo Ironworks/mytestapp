@@ -1,5 +1,5 @@
 language: Objective-c
 osx_image: xcode12.4
-xcode_project: MyTestApp.xccodeproj
+xcode_project: MyTestApp.xcodeproj
 xcode_scheme: MyTestApp
 xcode_sdk: iphonesimulator14.0
