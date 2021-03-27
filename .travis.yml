@@ -2,4 +2,4 @@ language: Objective-c
 osx_image: xcode12.4
 xcode_project: MyTestApp.xcodeproj
 xcode_scheme: MyTestApp
-xcode_sdk: iphonesimulator12.2
+xcode_destination: platform=iOS Simulator, OS=14.4, name=iPhone X
